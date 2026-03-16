@@ -95,7 +95,7 @@ malawi-trade-intelligence/
 4. Update the CSV Reader node path to point to your downloaded data file
 5. Execute all (`Ctrl+Shift+F7`) or run section by section
 
-See [`workflow/README\_workflow.md`](https://github.com/PhilipKatema/Malawi-Trade-Intelligence/workflow/README_workflow.md) for detailed node-by-node documentation.
+See [`workflow/README\_workflow.md`](https://github.com/PhilipKatema/Malawi-Trade-Intelligence/blob/main/workflow/README_workflow.md) for detailed node-by-node documentation.
 
 \---
 
