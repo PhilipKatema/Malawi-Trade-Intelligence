@@ -40,8 +40,6 @@ malawi-trade-intelligence/
 │
 ├── data/
 │   ├── README\_data.md                 ← Data source info \& download instructions
-│   ├── commodity\_clustering.csv       ← k-Means cluster output (commodities)
-│   └── partner\_clustering.csv        ← k-Means cluster output (partners)
 │
 ├── workflow/
 │   ├── README\_workflow.md             ← KNIME workflow documentation
