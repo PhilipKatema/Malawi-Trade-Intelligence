@@ -1,6 +1,6 @@
 # 🌍 Malawi Trade Intelligence
 
-### Export Analysis · 1986–2024 · FAOSTAT
+### Export Analysis · 1986-2024 · FAOSTAT
 
 > A 38-year longitudinal analysis of Malawi's agricultural export economy - covering trade concentration, partner and commodity clustering, year-over-year growth dynamics, rolling volatility, and a 5-year linear regression forecast - built end-to-end in KNIME Analytics Platform.
 
@@ -13,7 +13,7 @@
 Open in any browser. Includes:
 
 * Commodity \& partner concentration donut charts
-* Year-over-year growth line chart (1987–2024)
+* Year-over-year growth line chart (1987-2024)
 * Tobacco export forecast through 2029
 * Rolling volatility table (Belgium, 3-year window)
 
@@ -82,7 +82,7 @@ malawi-trade-intelligence/
 * Dataset: Trade → Crops and Livestock Products (Detailed Trade Matrix)
 * Reporting Country: Malawi
 * Trade Flow: Export
-* Time Range: 1986–2024
+* Time Range: 1986-2024
 * Unit: USD (1000 US$)
 
 \---
