@@ -2,7 +2,7 @@
 
 ### Export Analysis · 1986–2024 · FAOSTAT
 
-> A 38-year longitudinal analysis of Malawi's agricultural export economy — covering trade concentration, partner and commodity clustering, year-over-year growth dynamics, rolling volatility, and a 5-year linear regression forecast — built end-to-end in KNIME Analytics Platform.
+> A 38-year longitudinal analysis of Malawi's agricultural export economy - covering trade concentration, partner and commodity clustering, year-over-year growth dynamics, rolling volatility, and a 5-year linear regression forecast - built end-to-end in KNIME Analytics Platform.
 
 \---
 
@@ -25,7 +25,7 @@ Open in any browser. Includes:
 |-|-|
 |**Commodity Concentration**|Unmanufactured tobacco = **67.4%** of total export value|
 |**Partner Concentration**|Belgium = **23.7%** of total export value|
-|**Peak Export Year**|2010 — tobacco exports reached \~**$875M**|
+|**Peak Export Year**|2010 - tobacco exports reached \~**$875M**|
 |**Declining Volatility**|Belgium 3-yr std. dev. fell from $71M (2009) → $7.7M (2023)|
 |**2029 Forecast**|Linear regression projects tobacco exports at \~**$690M**|
 
@@ -76,7 +76,7 @@ malawi-trade-intelligence/
 
 ## 📥 Data Source
 
-**FAOSTAT — Food and Agriculture Organization of the United Nations**
+**FAOSTAT - Food and Agriculture Organization of the United Nations**
 
 * URL: [https://www.fao.org/faostat](https://www.fao.org/faostat)
 * Dataset: Trade → Crops and Livestock Products (Detailed Trade Matrix)
